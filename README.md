@@ -77,3 +77,11 @@ Passionate about transforming raw data into meaningful insights using SQL, Excel
 ---
 
 ⭐ “Turning Data into Actionable Insights”
+
+## 📂 Featured Projects
+
+### 🛒 Zepto E-commerce Data Analysis
+- Sales trend analysis using Excel, SQL & Power BI
+
+### 🐟 Fresh Fish Buying & Selling Platform
+👉 [View Live Project](https://endearing-monstera-746abb.netlify.app/)
