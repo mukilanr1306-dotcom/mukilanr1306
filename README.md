@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Mukilan+R+%F0%9F%91%8B;Data+Analyst+%7C+Operations+Executive;Excel+%2B+Power+BI+%2B+MySQL+%2B+Python;Turning+Raw+Data+into+Business+Insights)](https://readme-typing-svg.demolab.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mukilanr1306&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/mukilanr1306)
+[![Profile Views](https://komarev.com/ghpvc/?username=mukilanr1306-dotcom&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/mukilanr1306-dotcom)
 
 </div>
 
@@ -77,11 +77,11 @@ class MukilanR:
 
 <div align="center">
 
-<a href="https://github.com/mukilanr1306">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukilanr1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/mukilanr1306-dotcom">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukilanr1306-dotcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/mukilanr1306">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanr1306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/mukilanr1306-dotcom">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanr1306-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -92,7 +92,7 @@ class MukilanR:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mukilanr1306&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=mukilanr1306)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mukilanr1306-dotcom&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=mukilanr1306-dotcom)
 
 </div>
 
@@ -102,7 +102,7 @@ class MukilanR:
 
 <div align="center">
 
-[![Mukilan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukilanr1306&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mukilanr1306)
+[![Mukilan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukilanr1306-dotcom&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mukilanr1306-dotcom)
 
 </div>
 
@@ -112,7 +112,7 @@ class MukilanR:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mukilanr1306&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mukilanr1306)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mukilanr1306-dotcom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mukilanr1306-dotcom)
 
 </div>
 
@@ -142,8 +142,8 @@ class MukilanR:
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**📦 Zepto E-Commerce Data Analysis**](https://github.com/mukilanr1306) | Advanced Excel · Power BI · MySQL | Analyzed **10,000+ rows** of sales data · Built interactive KPI dashboard · Identified top SKUs · Recommended inventory strategy estimated to reduce stockouts by **15%** |
-| [**🐟 Fish Marketplace Platform (SIH)**](https://github.com/mukilanr1306) | Real-Time Platform | Smart India Hackathon project · Eliminated supply-chain middlemen · Improved pricing transparency for fishermen |
+| [**📦 Zepto E-Commerce Data Analysis**](https://github.com/mukilanr1306-dotcom) | Advanced Excel · Power BI · MySQL | Analyzed **10,000+ rows** of sales data · Built interactive KPI dashboard · Identified top SKUs · Recommended inventory strategy estimated to reduce stockouts by **15%** |
+| [**🐟 Fish Marketplace Platform (SIH)**](https://endearing-monstera-746abb.netlify.app/) | Real-Time Platform | Smart India Hackathon project · Eliminated supply-chain middlemen · Improved pricing transparency for fishermen · [🌐 Live App](https://endearing-monstera-746abb.netlify.app/) |
 
 </div>
 
@@ -196,7 +196,7 @@ class MukilanR:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mukilanr1306%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mukilanr1306@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mukilanr1306-dotcom%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mukilanr1306-dotcom@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukilan--r--324896375-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukilan-r-324896375)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2063825%2083626-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916382583626)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-FF5722?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai,Tamil+Nadu)
