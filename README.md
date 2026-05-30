@@ -75,9 +75,13 @@ class MukilanR:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukilanr1306-dotcom&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mukilanr1306-dotcom&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanr1306-dotcom&layout=compact&theme=tokyonight" height="170"/>
+
+</div>
 
 ---
 
